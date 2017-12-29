@@ -1,0 +1,35 @@
+h1, h3
+{
+    text-align:center;
+}
+h3
+{
+    background-color: #28586f;
+    color:white;
+    font-size:0.9em;
+    margin-bottom:0px;
+    padding: 0.5em;
+}
+.news p
+{
+    background-color:#CCCCCC;
+    margin-top:0px;
+    padding : .5em 1em;
+}
+.news
+{
+    width:70%;
+    margin:auto;
+}
+
+.comment {
+    margin-top: .5em;
+    display: inline-block;
+}
+
+
+a
+{
+    text-decoration: none;
+    color: #558da4;
+}
